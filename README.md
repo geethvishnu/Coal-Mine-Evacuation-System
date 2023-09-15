@@ -1,4 +1,5 @@
 #Coal Mine Evacuation System Using Multi-Sensor Control
+
 Abstract:
 Embarking on an unprecedented journey into coal mine safety, our project unveils an ingenious evacuation system powered by Raspberry Pi and Grove Pi. Picture a network of cutting-edge sensors and smart devices working harmoniously to safeguard miners from potential dangers. From monitoring temperature fluctuations and air quality to alerting in case of sound anomalies, this system creates a fortified shield of protection. When emergencies strike, piercing alarms kick into action, guiding miners to safety. Imagine a dynamic LCD display providing real-time information, pinpointing the locations of life-saving emergency kits. Not stopping there, our system even adapts to ambient lighting. Witness a game-changer in safety technology that sets the new standard for hazardous environments, all wrapped up in a customizable package tailored to specific needs.
 
